@@ -1,0 +1,41 @@
+package loops;
+
+public class DoWhileLoop {
+
+	public static void main(String[] args) {
+		/* ciclo do while, evalua la expresión en la aprte inferior del ciclo. 
+		 * Por tanto, las declaraciones dentro del bloque "do" siempre se ejecuta al menos una vez.
+		 */
+		
+		
+	// Cuenta del 1 al 20
+		
+		int cuenta = 10;
+		do {
+			System.out.println("Cuenta es igual a: " +cuenta + " Total");
+			cuenta++;
+			
+		} while (cuenta <0); // Output 1 ya se ejecuto al menos 1 vez
+		
+		
+		/*
+		 * Crear un programa para un cajero bancario
+		 * - El programa me mostrará 4 opciones:
+		 * 1. Consultar saldo
+		 * 2. Ingresar dinero
+		 * 3. Retirar dinero
+		 * 4. Salir
+		 * - Mostrar mensaje de bienvenida al usuario, darle contexto y solicitar que elija una opción (número)
+		 * - Mostrar al usuario la opción que eligió y permitir que elija otra opción
+		 * - El usuario puede salir del programa escribiendo 4 (salir)
+		 */
+		
+		
+		System.outprintln();		
+		
+		
+		
+		
+	}
+
+}

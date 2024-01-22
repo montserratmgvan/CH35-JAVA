@@ -1,0 +1,26 @@
+package loops;
+
+public class WhileLoop {
+
+	public static void main(String[] args) {
+		
+     /*
+      * While ejecuta un bloque de código hasta que se cumpla una condición dada.
+      * 
+      * while(expresión){
+      * bloque de código a ejecutar
+      * (contador o iterador)
+      * }
+      * */
+		
+		int cuenta = 0;
+		while (cuenta < 10) {
+			cuenta ++;
+			System.out.println("La cuenta es de " + cuenta);
+		}
+		
+		
+		
+	}//método
+
+}//clase

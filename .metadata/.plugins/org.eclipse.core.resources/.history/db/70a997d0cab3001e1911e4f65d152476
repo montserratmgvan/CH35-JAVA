@@ -1,0 +1,42 @@
+
+public class EjercicioDatos {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Hola soy Monse :)");
+		
+		/*Comentarios multilínea*/
+		// Comentarios de una sola línea 
+		
+		//tipos de datos enteros
+		
+		byte edad = 15; // sirve para representar un número entero 8bites (-128 al 127)
+		
+		System.out.println("Edad del participante" + edad);
+		
+		short usuariosNuevos =200; //Sirve para representar un número entero 16 bites (-23768 al 32767)
+		
+		System.out.println("Usuarios nuevos" + usuariosNuevos);
+		
+		int usuariosTotales = 8752;// sirve para representar un numero entero 32 bits (-2147483648 al 2147483647)
+         
+		System.out.println("Usuarios Totales "+ usuariosTotales);
+		
+		long usuariosPremium= 9512; // sirve para represnetar un nuemro entero con valores mucho mayores
+		
+		System.out.prinln("Usuarios premium" + usuariosPremium);
+		
+// Tipos de datos con números decimales
+		
+		float altura = 1.61f; //sirve para represnetar un valor numérico con núemros decimales, cuyo valor es de 32 bites, puede tener 8 carácteres despues del punto y tiene que llevar una f al final.
+		
+		System.out.prinln("Altura del ususrio"+altura);
+		
+		double peso = 68;// sirve para representar valores numéricos condecimales, cuyo valor es de 64 bites y puede tener 
+	
+	
+	)
+}
+	
+	

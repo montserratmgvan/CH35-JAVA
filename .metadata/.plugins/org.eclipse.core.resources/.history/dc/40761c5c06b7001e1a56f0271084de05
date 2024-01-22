@@ -1,0 +1,31 @@
+package org.generation.collections;
+
+import java.util.ArrayList;
+
+public class SortMethod {
+
+
+	public static void main(String [] args) {
+
+	// El método .sort() permite ordenaar los elementos de una ArrayList
+		
+		ArrayList<E> <Integer> points = new ArrayList <Integer>();
+		
+		ArrayList <String> names = new ArrayList <Stringr>();
+		
+		points.add(5);
+		points.add(7);
+		points.add(6);
+		points.add(10);
+		points.add(9);
+		points.add(8);
+	
+		
+		
+		
+		
+		
+		
+	
+	}
+}
