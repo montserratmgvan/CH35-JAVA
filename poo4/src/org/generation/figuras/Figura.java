@@ -1,5 +1,5 @@
 package org.generation.figuras;
-org.generation.figuras;
+ //org.generation.figuras;
 
 /*
  * Figura será una superclase abstracta que contiene un método abstracto, el cual será implementado por sus subclases
@@ -23,4 +23,3 @@ abstract class Figura {
 	
 
 
-}
